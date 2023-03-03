@@ -1,5 +1,6 @@
 import { TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
+import { VentanaPrincipalComponent } from './ventana-principal/ventana-principal.component';
 
 describe('AppComponent', () => {
   beforeEach(async () => {
